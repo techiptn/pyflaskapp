@@ -11593,7 +11593,9 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ffc800;
+  /* background-color: #ffc800; */
+  background-color: #fff;
+  
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
@@ -11720,6 +11722,24 @@ header.masthead .masthead-heading {
 .img-brand {
   height: 2.75rem;
 }
+
+section#about {
+  background-color: #212529;
+  background-image: url("../assets/img/map-image.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+section#about .section-heading {
+  color: #ced4da;
+}
+section#about .section-subheading {
+  color: #e9ecef;
+}
+
+section#about .section-subheading2 {
+  color: #adb5bd;
+}
+
 
 section#contact {
   background-color: #212529;
