@@ -1,3 +1,3 @@
 # pyflaskapp
-This is just for personal practice of python flask.
+This is just for personal practice.
  
